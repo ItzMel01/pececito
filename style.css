@@ -1,0 +1,68 @@
+/*https://www.colorhunt.co/palette/e8c872fff3cfc9d7dd637a9f   PALETA DE COLORES*/
+.navbar-brand {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+
+.container-fluid{
+    background-color:rgb(232, 200, 114);
+}
+
+
+h1 {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.compras{
+    text-align: center; 
+    background-color:rgb(99, 122, 159);
+}
+
+.conocenos{
+    text-align: center; 
+    background-color:rgb(201, 215, 221);
+}
+
+.contacto{
+    text-align: center;
+     background-color:rgb(255, 243, 207);
+}
+
+h2 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+footer {
+    background-color: rgb(232, 200, 114);
+    padding: 2%;
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.logo-footer{
+    width: 20%;
+    height: 20%;
+    
+}
+
+
+
+.redes-sociales ul li a {
+    color: rgb(25, 43, 42);
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.redes-sociales ul li a:hover {
+    color: #3274bb;
+}
